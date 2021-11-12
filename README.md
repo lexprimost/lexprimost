@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
 - 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
-- 💼 &nbsp; Founder of Exckubeatshop.com and SPAITR.
-- 🌱 &nbsp; Learning more about Flutter, Python and Artificial Intelligence.
+- 💼 &nbsp; Founder of Exclubeatshop.com.
+- 🌱 &nbsp; Learning more about APIs, Python and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -39,8 +39,8 @@
 
 <p align="center">
 <a href="https://exclubeatshop.com/"><img src="https://img.shields.io/badge/-exlubeatshop.com-green?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/lexprimost/"><img src="https://img.shields.io/badge/-Nick-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:priimost@gmail.com"><img src="https://img.shields.io/badge/-nicolascamara29@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lexprimost/"><img src="https://img.shields.io/badge/-Primael-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:priimost@gmail.com"><img src="https://img.shields.io/badge/-priimost@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--
