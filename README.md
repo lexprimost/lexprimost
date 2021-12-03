@@ -3,10 +3,9 @@
 <h3> 😁 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile apps with Flutter.
-- 🎓 &nbsp; Graduated Cum Laude in Computer Science at the University of New Hampshire.
 - 💼 &nbsp; Founder of Exclubeatshop.com.
 - 🌱 &nbsp; Learning more about APIs, Python and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing UI/UX Design as a hobby.
+- ✍️ &nbsp; Pursuing UI/UX Design and Beatmaking as a hobby. Vuejs, NodeJS, Laravel veteran
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
